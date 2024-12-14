@@ -1,2 +1,2 @@
 ﻿# Jframe-Input-Data
- Iput data nama dan juga asala, lalu menampilkan output menggunakan notifikasi
+ Iput data nama dan juga asal, lalu menampilkan output menggunakan notifikasi
